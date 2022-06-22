@@ -1,6 +1,9 @@
 # Prompts
-My prompt configs for shell apps
+My prompt configs for shells.
 
+## Installation
+
+Installation steps are written into seperate README files.
 Current shells:
-* Powershell
-* Fish
+* [Powershell](pwsh)
+* [Fish](fish)
